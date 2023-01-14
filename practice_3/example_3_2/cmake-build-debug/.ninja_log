@@ -1,0 +1,7 @@
+# ninja log v5
+1	1195	6922826727737186	CMakeFiles/example_3_2.dir/main.cpp.obj	9e623c0e7d03b4da
+1237	1406	6922826729772317	example_3_2.exe	e75db7f15f2fc2d
+7	1174	6922826865586837	CMakeFiles/example_3_2.dir/main.cpp.obj	9e623c0e7d03b4da
+1175	1339	6922826867182866	example_3_2.exe	e75db7f15f2fc2d
+7	1379	6933536471952629	CMakeFiles/example_3_2.dir/main.cpp.obj	9e623c0e7d03b4da
+1380	1565	6933536473735941	example_3_2.exe	e75db7f15f2fc2d

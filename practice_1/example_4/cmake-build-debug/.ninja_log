@@ -1,0 +1,9 @@
+# ninja log v5
+1	810	6896106761539820	CMakeFiles/example_4.dir/main.cpp.obj	dfbe6e950bd71557
+814	1030	6896106763679090	example_4.exe	ca917cadce0ab5a2
+6	805	6896107245510411	CMakeFiles/example_4.dir/main.cpp.obj	dfbe6e950bd71557
+806	992	6896107247324446	example_4.exe	ca917cadce0ab5a2
+7	978	6896107696518012	CMakeFiles/example_4.dir/main.cpp.obj	dfbe6e950bd71557
+979	1158	6896107698249498	example_4.exe	ca917cadce0ab5a2
+6	744	6896109387427906	CMakeFiles/example_4.dir/main.cpp.obj	dfbe6e950bd71557
+745	946	6896109389398310	example_4.exe	ca917cadce0ab5a2

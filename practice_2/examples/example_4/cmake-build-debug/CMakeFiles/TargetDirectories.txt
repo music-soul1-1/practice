@@ -1,0 +1,3 @@
+C:/Users/Yehor/Documents/code/uni_code/TA/practice/practice_2/examples/example_4/cmake-build-debug/CMakeFiles/example_4.dir
+C:/Users/Yehor/Documents/code/uni_code/TA/practice/practice_2/examples/example_4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Yehor/Documents/code/uni_code/TA/practice/practice_2/examples/example_4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
